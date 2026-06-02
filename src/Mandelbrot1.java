@@ -10,7 +10,7 @@ public class Mandelbrot1 extends JFrame {
     private double zx, zy, cX, cY;
 
     public Mandelbrot1() {
-        super("Mandelbrot Set - Z² + C | Escala de Grises");
+        super("Mandelbrot Set - Z² + C");
         setBounds(100, 100, 800, 600);
         setResizable(false);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
